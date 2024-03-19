@@ -1,0 +1,17 @@
+.box {
+    width: 500px;
+    height: 300px;
+    border: 4px double;
+}
+
+.tieude {
+    text-align: center;
+}
+
+.tieudemuc {
+    text-align: left;
+}
+
+.check{
+    text-align: center;
+}

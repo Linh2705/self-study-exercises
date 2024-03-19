@@ -1,0 +1,30 @@
+html {
+	background-color: #0FF;
+}
+
+.tieudevb{
+	color: red;
+	text-align: center;
+}
+
+.vanban {
+	type="I";
+	color: red;	
+}
+
+.noidung1{
+	color: blue;
+}
+
+.noidung2{
+	color: blue;
+}
+
+.kengang{
+	width: 30%;
+	text-align: center;
+}
+
+.chuthich{
+	color: blue;
+}
